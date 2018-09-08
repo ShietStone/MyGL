@@ -2,7 +2,7 @@ package org.tembins.mygl;
 
 /**
  * MyGL is a graphics library for 3D as well as 2D rendering. It was heavily inspired
- * by OpenGl but does not work like it. The rendering completely takes place on the
+ * by OpenGL but does not work like it. The rendering completely takes place on the
  * CPU, so the quality may not be the best. MyGL is licensed under the MIT License.
  * 
  * @author Tembins
